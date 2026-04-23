@@ -1,0 +1,23 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Shell / temp
+*.tmp
+*.temp
+*.log
+/tmp/
+
+# Environment
+.env
+.env.local
+
+# Test artifacts
+coverage/
